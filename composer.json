@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/installer": "^1.3",
+        "rcrowe/twigbridge": "^0.9.3"
+    }
+}
